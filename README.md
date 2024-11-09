@@ -51,7 +51,7 @@ This fetcher is:
     OPAL_FETCH_PROVIDER_MODULES=opal_common.fetcher.providers,opal_fetcher_http_oauth2.provider
     ```
 
-    This tells OPAL where to find fetch providers. The list includes the built-in providers (`opal_common.fetcher.providers`) and the custom HTTP OAuth2 fetcher (`opal_fetcher_http_with_oauth2.provider`).<br><br>
+    This tells OPAL where to find fetch providers. The list includes the built-in providers (`opal_common.fetcher.providers`) and the custom HTTP OAuth2 fetcher (`opal_fetcher_http_oauth2.provider`).<br><br>
 
 4. **Configure your DataSourceEntry objects**<br><br>
 
